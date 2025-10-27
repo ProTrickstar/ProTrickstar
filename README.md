@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ProTrickstar
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning programming from WhiteHat Jr.
+- 🌱 I’m currently learning programming on my own!.
 - 💞️ I’m looking to collaborate on GitHub
 - 📫 Reach me through my email- swastiksinghwhitehat@gmail.com
 
